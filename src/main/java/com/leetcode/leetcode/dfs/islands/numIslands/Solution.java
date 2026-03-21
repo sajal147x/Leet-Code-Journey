@@ -1,4 +1,4 @@
-package com.leetcode.leetcode.dfs.islands;
+package com.leetcode.leetcode.dfs.islands.numIslands;
 
 
 class Solution {
