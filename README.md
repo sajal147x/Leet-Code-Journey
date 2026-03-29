@@ -8,6 +8,7 @@ Repository to keep track of my leet code solutions
 4. Min Depth binary tee (iterative DFS)
 5. In order traversal binary tree (recursive dfs)
 6. Best time to buy sell stock price (2 pointer array loop)
+7. Can String be equal with swaps (beats 100% in time complexity)
 
 **MEDIUM**
 1. Course Schedule (Detecting Cycles in a graph using DFS)
