@@ -16,3 +16,4 @@ Repository to keep track of my leet code solutions
 3. Container with most water (2 pointer)
 4. Number of islands in a 2d array (recursive dfs)
 5. Matrix K swaps
+6. Can string be equal with swaps (dynamic string length)
