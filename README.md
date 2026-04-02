@@ -17,3 +17,4 @@ Repository to keep track of my leet code solutions
 4. Number of islands in a 2d array (recursive dfs)
 5. Matrix K swaps
 6. Can string be equal with swaps (dynamic string length)
+7. Invalid Trxn (object oriented solution)
