@@ -18,3 +18,4 @@ Repository to keep track of my leet code solutions
 5. Matrix K swaps
 6. Can string be equal with swaps (dynamic string length)
 7. Invalid Trxn (object oriented solution)
+8. Implement a browser with forward and back function

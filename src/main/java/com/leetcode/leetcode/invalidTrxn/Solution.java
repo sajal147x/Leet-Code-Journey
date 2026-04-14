@@ -16,6 +16,7 @@ class Solution {
         int n = transactions.length;
         boolean[] invalid = new boolean[n];
         Transaction[] parsed = new Transaction[n];
+        
 
         // parse transactions
         for (int i = 0; i < n; i++) {
